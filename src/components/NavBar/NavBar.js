@@ -14,14 +14,14 @@ export default function NavBar() {
                         <Link to="/" >Home</Link>
                     </li>
                     {/* <li className={styles.item}>
-                        <Link to="/projects" >Projetos</Link>
-                    </li>
+                        <Link to="/projects" >Produtos</Link>
+                    </li> */}
                     <li className={styles.item}>
                         <Link to="/company" >Empresa</Link>
                     </li>
                     <li className={styles.item}>
                         <Link to="/contact" >Contato</Link>
-                    </li> */}
+                    </li>
                 </ul>
             </Container>
         </nav>
