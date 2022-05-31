@@ -6,7 +6,7 @@ export default function Home() {
         <section className={styles.homeContainer}>
             <h1>Bem-vindo à <span>WB Gás Nobre</span></h1>
             <p>Compre o seu Gás Nobre conosco.</p>
-            <LinkButton to="/produtos" text="Conhecer Produtos" />
+            <LinkButton to="/products" text="Conhecer Produtos" />
             {/* <img src={savings} alt="Costs" /> */}
         </section>
     );
